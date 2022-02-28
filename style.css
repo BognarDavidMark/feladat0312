@@ -1,0 +1,14 @@
+.container{
+    background-color: white;
+    margin: 5%;
+    padding: 15px;
+    border: solid 5px red;
+}
+
+input{
+    margin-bottom: 3px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
